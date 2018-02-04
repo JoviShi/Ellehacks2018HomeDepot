@@ -2271,10 +2271,10 @@ body {
     width: 100% !important;
   }
 }
-.cid-qIFmAl9wcE {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+.cid-qIFN8Viv4b {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #c1c1c1;
 }
 .cid-qIzwbgCPRS {
   padding-top: 45px;
@@ -4406,6 +4406,11 @@ body {
   .cid-qIF85PJnt9 .image-block {
     width: 100% !important;
   }
+}
+.cid-qIFNxd8WDF {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
 .cid-qIFkNzGprq .navbar {
   background: #ffffff;
