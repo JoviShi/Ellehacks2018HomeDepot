@@ -4045,6 +4045,31 @@ body {
 .cid-qIzsPgLmJl .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-qIG7fCJ3Am {
+  padding-top: 105px;
+  padding-bottom: 60px;
+  background: #34a2c7;
+  background: linear-gradient(45deg, #34a2c7, #bfefff);
+}
+.cid-qIG7fCJ3Am .image-block {
+  margin: auto;
+}
+.cid-qIG7fCJ3Am .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qIG7fCJ3Am figcaption {
+  position: relative;
+}
+.cid-qIG7fCJ3Am figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qIG7fCJ3Am .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qIF85PmXmw .navbar {
   background: #ffffff;
   transition: none;
