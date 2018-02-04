@@ -2271,10 +2271,28 @@ body {
     width: 100% !important;
   }
 }
-.cid-qIFN8Viv4b {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #c1c1c1;
+.cid-qIG3s5Hew1 {
+  background: #ffffff;
+}
+.cid-qIG3s5Hew1 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qIG3s5Hew1 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qIG3s5Hew1 figcaption {
+  position: relative;
+}
+.cid-qIG3s5Hew1 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qIG3s5Hew1 .image-block {
+    width: 100% !important;
+  }
 }
 .cid-qIzwbgCPRS {
   padding-top: 75px;
